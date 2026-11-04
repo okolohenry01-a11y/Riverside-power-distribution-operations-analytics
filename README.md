@@ -1,0 +1,2 @@
+# Riverside-power-distribution-operations-analytics
+Riverside Power Distribution Company (RPDC) — Operational Reliability &amp; Customer Impact Analytics  ## 📌 Executive Summary This repository contains a comprehensive Business &amp; Data Analytics project focused on evaluating the operational performance and reliability of the **Riverside Power Distribution Company (RPDC)** grid infrastructure.   
